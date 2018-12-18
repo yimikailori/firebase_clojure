@@ -1,5 +1,5 @@
 # firebase_clojure
-Backend firebase clojure app
+Backend firebaseadmin clojure app using java interop
 Assuming you are using luminus and compojure
 
 [com.google.firebase/firebase-admin "6.6.0"]
